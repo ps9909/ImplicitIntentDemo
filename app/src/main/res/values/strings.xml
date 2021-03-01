@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SEND EMAIL APP</string>
+    <string name="et1Text">TO: ENTER EMAIL IDS SEPARATED BY COMMA</string>
+    <string name="et2Text">SUBJECT</string>
+    <string name="et3Text">MESSAGE</string>
+    <string name="btnText">CLICK HERE TO SEND EMAIL</string>
+</resources>
